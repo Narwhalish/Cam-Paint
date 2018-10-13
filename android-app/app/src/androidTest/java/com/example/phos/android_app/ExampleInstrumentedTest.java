@@ -1,4 +1,4 @@
-package com.example.phos.android_camvas;
+package com.example.phos.android_app;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.phos.android_camvas", appContext.getPackageName());
+        assertEquals("com.example.phos.android_app", appContext.getPackageName());
     }
 }

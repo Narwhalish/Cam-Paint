@@ -1,4 +1,4 @@
-package com.example.phos.android_camvas;
+package com.example.phos.android_app;
 
 import org.junit.Test;
 
