@@ -1,2 +1,2 @@
-# V-aRt
-VR live style transfer using neural networks.
+# Camvas
+Color the world around you with paint splatters.
